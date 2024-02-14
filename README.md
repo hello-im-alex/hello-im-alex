@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex - @hello-im-alex
 - 👀 I’m interested in Movies, gaming and ugly dogs.
-- 🌱 I’m currently learning Front-end, Javascript, React.
-- 💞️ I’m looking to collaborate on Home Automation, 
+- 🌱 I’m currently studying DSA
+- 💞️ I’m looking to collaborate on Home Automation
 - 📫 Reach me - alexander.brown3@students.mq.edu.au or https://www.linkedin.com/in/alexlbrown/
 
 <!---
