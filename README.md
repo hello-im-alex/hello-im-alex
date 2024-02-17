@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex - @hello-im-alex
 - 👀 I’m interested in Movies, gaming and ugly dogs.
-- 🌱 I’m currently studying DSA
-- 💞️ I’m looking to collaborate on Home Automation
+- 🌱 I’m currently sharpening DSA Skills, writing Beng thesis.
+- 💞️ I’m looking to collaborate on Home Automation, open source, fun projects, interesting domains.
 - 📫 Reach me - alexander.brown3@students.mq.edu.au or https://www.linkedin.com/in/alexlbrown/
 
 <!---
